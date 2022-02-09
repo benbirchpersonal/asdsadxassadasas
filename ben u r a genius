@@ -1,0 +1,21 @@
+0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0
+
+Stride = 10
+Size =80
+
+
+Void* screenBuf = malloc(10);
+*screenBuf |= (0 * 80)
+
+
+Draw line
+For(int I = 0; I < lineLen;i++)
+	(screenBuf << i) |= 1; 
+
